@@ -85,11 +85,6 @@ WINI Assistant/
 
 
 
-🔧 Installation Guide
-1️⃣ Clone the repository
-git clone https://github.com/your-username/WINI-Assistant.git
-cd WINI-Assistant
-
 2️⃣ Create a virtual environment
 python -m venv venv
 
